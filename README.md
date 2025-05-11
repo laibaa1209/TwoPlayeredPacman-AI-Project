@@ -41,3 +41,47 @@ graph TD
     K --> D
     G --> L{Game End?}
     L -->|Yes| M[Display Winner]
+```
+
+## 🛠️ Installation
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/ai-pacman.git
+
+# Install dependencies
+pip install pygame numpy
+
+# Run game
+python main.py
+```
+
+---
+
+## 🎯 Game Rules
+
+### 🎮 Players:
+- Control Pacman characters using **Arrow** or **WASD** keys
+- **Collect pellets** to increase your score
+
+### 👻 Ghosts:
+- Controlled by **AI algorithms** to chase Pacmen
+- Can be **frozen temporarily** using power-ups
+
+### 🏆 Winning:
+- **Ghosts win** if both Pacmen are caught
+- **Last surviving Pacman wins** if one remains
+- **Highest scorer wins** if all pellets are eaten
+
+---
+
+## 👥 Team Contributions
+
+| Member             | Role                                 |
+|--------------------|--------------------------------------|
+| Laiba Bint-e-Zia   | Genetic Algorithm, UI Design         |
+| Amna               | Min-Max Algorithm, Dynamic Maps      |
+| Alisha Zaidi       | A* Algorithm, Player Mechanics       |
+| Layyana Junaid     | BFS Algorithm, Game Over Logic       |
+
+---
