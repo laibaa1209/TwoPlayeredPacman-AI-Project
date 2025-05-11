@@ -2,11 +2,9 @@
 
 <div align="center">
   <img src="![image](https://github.com/user-attachments/assets/1a8449a1-121d-4f6c-8d64-10612e82318c)
-" alt="Pacman Game Screenshot" width="400">
   
   [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
   [![Pygame](https://img.shields.io/badge/Pygame-2.0+-green)](https://www.pygame.org/)
-  [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 </div>
 
