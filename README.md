@@ -1,4 +1,4 @@
-# 🎮 AI-Powered Dynamic Pacman: Two-Player Edition
+# AI-Powered Dynamic Pacman: Two-Player Edition
 
 <div align="center">
   
@@ -7,7 +7,7 @@
 
 </div>
 
-## 🌟 Project Overview
+## Project Overview
 A modern twist on classic Pacman featuring:
 - **Competitive two-player mode** with score tracking
 - **Dynamic map regeneration** every 30 seconds
@@ -15,7 +15,7 @@ A modern twist on classic Pacman featuring:
 - **New power-ups** like ghost freezing
 - **Adaptive gameplay** with multiple win conditions
 
-## 🚀 Key Features
+## Key Features
 | Feature | Description |
 |---------|-------------|
 | 🕹️ Dual Players | Compete head-to-head as Pacman characters |
@@ -43,7 +43,7 @@ graph TD
     L -->|Yes| M[Display Winner]
 ```
 
-## 🛠️ Installation
+##  Installation
 
 ```bash
 # Clone repository
@@ -58,17 +58,17 @@ python main.py
 
 ---
 
-## 🎯 Game Rules
+## Game Rules
 
 ### 🎮 Players:
 - Control Pacman characters using **Arrow** or **WASD** keys
 - **Collect pellets** to increase your score
 
-### 👻 Ghosts:
+### Ghosts:
 - Controlled by **AI algorithms** to chase Pacmen
 - Can be **frozen temporarily** using power-ups
 
-### 🏆 Winning:
+### Winning:
 - **Ghosts win** if both Pacmen are caught
 - **Last surviving Pacman wins** if one remains
 - **Highest scorer wins** if all pellets are eaten
