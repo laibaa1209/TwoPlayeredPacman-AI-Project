@@ -7,6 +7,8 @@
 
 </div>
 
+Watch the demo video [here](https://github.com/laibaa1209/TwoPlayeredPacman-AI-Project/blob/main/demo.mp4).
+
 ## Project Overview
 A modern twist on classic Pacman featuring:
 - **Competitive two-player mode** with score tracking
