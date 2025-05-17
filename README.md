@@ -9,6 +9,8 @@
 
 Watch the demo video [here](https://github.com/laibaa1209/TwoPlayeredPacman-AI-Project/blob/main/demo.mp4).
 
+[![Google Drive](https://img.shields.io/badge/📁_Download_Now-Google%20Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1jw23lKZRDZ8VsS3BG7DIb7xSqutovgVs/view?usp=drive_link)
+
 ## Project Overview
 A modern twist on classic Pacman featuring:
 - **Competitive two-player mode** with score tracking
